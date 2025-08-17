@@ -1,0 +1,73 @@
+{
+  "859341713491361812": {
+    "entered": true,
+    "habits": [
+      {
+        "text": "1",
+        "done": true
+      },
+      {
+        "text": "2",
+        "done": true
+      },
+      {
+        "text": "3",
+        "done": true
+      },
+      {
+        "text": "4",
+        "done": true
+      },
+      {
+        "text": "5",
+        "done": true
+      }
+    ],
+    "goals": [
+      {
+        "text": "take care",
+        "done": false
+      },
+      {
+        "text": "alpha",
+        "done": false
+      },
+      {
+        "text": "beta",
+        "done": false
+      },
+      {
+        "text": "gama",
+        "done": false
+      }
+    ],
+    "streak": 0,
+    "hiddenQuest": null,
+    "hiddenDone": false,
+    "workoutDone": false,
+    "currentWorkout": null,
+    "greeted": false,
+    "lastActive": 1755433857613,
+    "graceDay": null,
+    "lastReset": 1755433748942
+  },
+  "971358043256270898": {
+    "entered": true,
+    "habits": [],
+    "goals": [
+      {
+        "text": "pelna",
+        "done": false
+      }
+    ],
+    "streak": 0,
+    "hiddenQuest": null,
+    "hiddenDone": false,
+    "workoutDone": false,
+    "currentWorkout": null,
+    "greeted": false,
+    "lastActive": 1755433827381,
+    "graceDay": null,
+    "lastReset": 1755433736144
+  }
+}
